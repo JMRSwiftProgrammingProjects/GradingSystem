@@ -1,8 +1,7 @@
 //
 //  ViewController.swift
-//  GradingSystem
-//
-//  Created by JMR on 4/8/20.
+//  Project: GradingSystem
+//  Created by Jocelyn M. Rodriguez on 4/8/20.
 //  Copyright © 2020 CUNY Borough of Manhattan Community College. All rights reserved.
 //
 
